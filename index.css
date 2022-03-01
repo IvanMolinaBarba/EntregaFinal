@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .cartas img {
+    width: 300px;
+  } 
+  
+  .cartas {
+    padding-top: 10px;
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card-text {
+    font-style:inherit;
+    display: flex;
+    justify-content: center;
+  }
